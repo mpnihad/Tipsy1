@@ -11,6 +11,7 @@ import UIKit
 class ResultViewController: UIViewController {
     
     var splitAmt = 0.0
+    
     var descriptions = ""
     
     override func viewDidLoad() {
